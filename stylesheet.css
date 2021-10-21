@@ -1,0 +1,192 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.header{
+  	height: 100vh;
+	width: 100%;
+	background: linear-gradient(rgba(70, 160, 180, 0.3) , rgba(70, 145, 180, 0.3)) , url(images/advantages.jpeg);
+	background-position: center;
+	background-size: cover;
+	position:  relative;
+	color: azure;
+	
+}
+
+h1{
+	color :whitesmoke;
+  	text-align :center;
+	padding: 10px;
+	font-size: 30px;
+}
+h2
+{
+	/* color: rgba(15, 4, 4, 0.7); */
+	color: black;
+}
+p{
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+	font-size: 22px;
+}
+.advantage1 h2{
+	position: relative;
+	left: 34%;
+	width: 500px;
+	/* top: 30px; */
+  font-size: 27px;
+}
+.advantage1 p{
+	width: 800px;
+	height: 80px;
+	position: relative;
+	/* top: 35px; */
+	left: 36%;
+  font-size: 22px;
+}
+.advantage2 h2{
+	position: relative;
+	left: 31%;
+	width: 500px;
+	/* top: 65px; */
+  font-size: 27px;
+}
+.advantage2 p{
+	width: 850px;
+	height: 80px;
+	position: relative;
+	/* top: 70px; */
+	left: 33%;
+  font-size: 22px;
+}
+.advantage3 h2{
+	position: relative;
+	left: 28%;
+	width: 500px;
+	/* top: 100px; */
+  font-size: 27px;
+}
+.advantage3 p{
+	width: 900px;
+	height: 80px;
+	position: relative;
+	/* top: 105px; */
+	left: 30%;
+  font-size: 22px;
+
+}
+.advantage4 h2{
+	position: relative;
+	left: 25%;
+	width: 500px;
+	/* top: 135px; */
+  font-size: 27px;
+}
+.advantage4 p{
+	width: 900px;
+	height: 80px;
+	position: relative;
+	/* top: 140px; */
+	left: 27%;
+  font-size: 22px;
+}
+.advantage5 h2{
+	position: relative;
+	left: 22%;
+	width: 500px;
+	/* top: 170px; */
+  font-size: 27px;
+}
+.advantage5 p{
+	width: 900px;
+	height: 80px;
+	position: relative;
+	/* top: 175px; */
+	left: 24%;
+  font-size: 22px;
+}
+.header1{
+	min-height: 100vh;
+	width: 100%;
+    background: linear-gradient(rgba(93, 127, 196, 0.616) , rgba(26, 60, 87, 0.555)) , url(images/disadvantage.jpeg);
+    background-position: center;
+    background-size: cover;
+    position:  relative;
+	color: white;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.disadvantage1 h2{
+	position: relative;
+	width: 500px;
+	/* top: 7px; */
+  	font-size: 25px;
+}
+.disadvantage1 p{
+	width: 900px;
+	height: 90px;
+	position: relative;
+	/* top: 5px; */
+	left: 2%;
+  /* font-size: 20px; */
+}
+.disadvantage2 h2{
+	position: relative;
+	width: 500px;
+	/* top: 10px; */
+  font-size: 25px;
+}
+.disadvantage2 p{
+	width: 900px;
+	height: 90px;
+	position: relative;
+	/* top: 10px; */
+	left: 2%;
+  /* font-size: 20px; */
+}
+.disadvantage3 h2{
+	position: relative;
+	
+	width: 500px;
+	/* top: 115px; */
+ 	font-size: 25px;
+}
+.disadvantage3 p{
+	width: 800px;
+	height: 90px;
+	position: relative;
+	/* top: 120px; */
+	left: 2%;
+ 	/* font-size: 20px; */
+}
+.disadvantage4 h2{
+	position: relative;
+	
+	width: 500px;
+	/* top: 145px; */
+  font-size: 25px;
+}
+.disadvantage4 p{
+	width: 850px;
+	height: 85px;
+	position: relative;
+	/* top: 150px; */
+	left: 2%;
+  /* font-size: 20px; */
+}
+.disadvantage5 h2{
+	position: relative;
+	
+	width: 400px;
+	/* top: 200px; */
+  font-size: 25px;
+}
+.disadvantage5 p{
+	width: 750px;
+	height: 50px;
+	position: relative;
+	/* top: 205px; */
+	left: 2%;
+  /* font-size: 20px; */
+}
